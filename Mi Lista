@@ -1,34 +1,36 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title =" AIRE ", TV PUBLICA 
-https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png" group-title ="AIRE", TV PUBLICA 
+http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181486?token=QhcKABcMEg4SBFVRUVJYBw0EAgZXVwAHUFNRAQMBB1MPAlpUAgUCV1YRHEFDRUsHVFg5WAYXCAMJB1AMBR1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUQQHBlNRCRlAEQ0AEg4SAQJaCQkbThdQHkUHR1xTXWkAUUVYAAYbDwwUCAgcFl9dbwdVXFgMURdcE1MXHhBYRRQWCRM3BlVQBA4KDVNVEFdVQ3FDXgdbQQ9fAxceEFNfEEZSRQZBAxdQV1VdEhgSUF8WXkVLGxcPRHAwFx4QVE4QUV1CCgxXF1hDEBcSGBJaQzxCVEoWR1AHXAdHEAgTBkYYEVwCG2ZWDQ8KAVNAWVxeEBILG1MFBUQdQFhdXFhCC0ZsQQoHGw9AU1xQAgESTg==
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title =" AIRE ", TV PUBLICA ALTERNATIVA 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png" group-title ="AIRE", TV PUBLICA ALTERNATIVA 
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period% C3% ADstica_IP_Logo.svg.png "group-title =" NOTICIAS ", IP 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period% C3% ADstica_IP_Logo.svg.png" group-title ="NOTICIAS", IP 
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 #EXTINF: -1 tvg-logo = "http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title = "NOTICIAS", CRONICA 
 http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181523?token=QhcKABcMEg4SBFYBBgldA1MGBwAEBlQHAQdUAgFXV1paBAYDAVYIBAQRHEFDRUsHVFg5WAYXCAMJB1EGAB1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUAcGB1pUChlAEQ0AEg4SAQhWBgIbThdQHkUHR1xTXWkAUUVYAAYbDwwUCAgcFl9dbwdVXFgMURdcE1MXHhBYRRQWCRM3BlVQBA4KDVNVEFdVQ3FDXgdbQQ9fAxceEFNfEEZSRQZBA1sXDQhIEldfRl4XQkgbWBd0NBNOF1dKRVMKR1peDUEDFxYSRkgSXUNsQgZDRUsHVFgDQ0APEAITGkZZUkk8AFZbDAQHEFlbXkASWRIACVIXGURcDVtbRl5EO0RaVUFZGwdaVVxQEkk=
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title = 
-"NOTICIAS", CANAL 26 
+#EXTINF:-1 tvg-id="Channel26.ar" tvg-name="Canal 26 AR" tvg-logo="https://picon-13398.kxcdn.com/canal26ar.jpg" group-title="NOTICIAS",Canal 26 AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8 
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29. png "group-title =" NOTICIAS ", A24 
-https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29. png "group-title = "NOTICIAS", A24 
+http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181529?token=QhcKABcMEg4SBQRRBAcLVQVRVgYEBVBUBgdcAlFTBwENVFBTAQBTDQgRHEFDRUsHVFg5WAYXCAMJB1EGCh1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUQQHCVZbDxlAEQ0AEg4SAQhSBAcbThdQHkUHR1xTXWkAUUVYAAYbDwwUCAgcFl9dbwdVXFgMURdcE1MXHhBYRRQWCRM3BlVQBA4KDVNVEFdVQ3FDXgdbQQ9fAxceEFNfEEZSRQZBAxdTVlBSEhgSUF8WXkVLGxcPRHAwFx4QVE4QUV1CCgxXF1hDEBcSGBJaQzxCVEoWR1AHXAdHEAgTBkYYEVwCG2ZWDQ8KAVNAWVxeEBILG1MFBUQdQFhdXFhCC0ZsQQoHGw9AU1xUBwMSTg==
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" grupo- title = "NOTICIAS", A 24 TUCUMAN 
 http://45.6.4.154/americatuc/vivo.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN 
+http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181380?token=QhcKABcMEg4SA1NUCFJfBlBRAgEAA1QBVwQFUFFTBVoJVAYFAVdSA1YRHEFDRUsHVFg5WAYXCAMJB1cMAx1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUQQHB1pSChlAEQ0AEg5eRlwPHBNcGkFQFF8DWW1WVEANV1YTWQ1MWQ5NRgtea1RWXQJeVRtYFwREHUBcQUITDEZgVl0GBVZbCwIFRFRREHJCBFVfTQtbVEQdQFdbRkNXEFERCw0WVVlOQwcLRVpEQUlBChN4MBcZRFQaQVdcQl8LWhELQRdKF05DDRdvRlVARBFVUFQHRxdcE1IXHhBcVxxrUF4NDVxWFggLCkMWChEBUwATFUBYWghYFlpAbUFfABYJE1FUAQNbQxk=
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN YT 
 https://www.youtube.com/watch?v=wHn1_QVoXGM	 
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title = "AIRE", AMÉRICA 
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
+http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181351?token=QhcKABcMEg4SB1QAUQALAwwMUFADAgZQUA4HUVBTVlFaBQECUAcCBwARHEFDRUsHVFg5WAYXCAMJB1cBAh1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUQQHB1VWARlAEQ0AEg4SAQFSAwYbThdQHkUHR1xTXWkAUUVYAAYbDwwUCAgcFl9dbwdVXFgMURdcE1MXHhBYRRQWCRM3BlVQBA4KDVNVEFdVQ3FDXgdbQQ9fAxceEFNfEEZSRQZBAxdXUVdTEhgSUF8WXkVLGxcPRHAwFx4QVE4QUV1CCgxXF1hDEBcSGBJaQzxCVEoWR1AHXAdHEAgTBkYYEVwCG2ZWDQ8KAVNAWVxeEBILG1MFBUQdQFhdXFhCC0ZsQQoHGw9AU1VUBQESTg==
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group- title = "AIRE", TELEFE 
-30.	https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1634740741~exp=1634747941~acl=/i/appmitelefe_1@326430/*~hmac=56958fc3f112275af633c8f73d077189d4d06b7eeb6740d52f6a299e74fd8056
+30. https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1634740741~exp=1634747941~acl=/i/appmitelefe_1@326430/*~hmac=56958fc3d2aaaaaaaaaaa1
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group- title = "AIRE", TELEFE ROSARIO 
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
@@ -40,8 +42,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8 
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title = "AIRE", CANAL 9 HD 
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3438
-
+http://148.251.155.166:8080/bestmedia/6uNaZcfGFC/181366?token=QhcKABcMEg4SUABUUVdcVVcAUAFbAQILV1dUDVIDAFZcDVpYAAAHAVMRHEFDRUsHVFg5WAYXCAMJB1cCBR1BFkpQED4NABIOEgUCUwYBG04XQQ9cBxcIAwcFUQQHB1tWCRlAEQ0AEg4SAQRbAgUbThdQHkUHR1xTXWkAUUVYAAYbDwwUCAgcFl9dbwdVXFgMURdcE1MXHhBYRRQWCRM3BlVQBA4KDVNVEFdVQ3FDXgdbQQ9fAxceEFNfEEZSRQZBAxdQVlJVEhgSUF8WXkVLGxcPRHAwFx4QVE4QUV1CCgxXF1hDEBcSGBJaQzxCVEoWR1AHXAdHEAgTBkYYEVwCG2ZWDQ8KAVNAWVxeEBILG1MFBUQdQFhdXFhCC0ZsQQoHGw9AU1BcAQESTg==
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title = "AIRE", NET TV 
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL 
 
@@ -69,7 +70,7 @@ http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73731
 #EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "DEPORTES", TNT SPORTS 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73725 
 
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX Sports 3 LAM" tvg-logo="https://picon-13398.kxcdn.com/foxsports3.jpg" group-title="Live: Latin America",FOX Sports 3 Latino
+#EXTINF: -1 tvg-id = "FoxSports3.mx" tvg-name = "FOX Sports 3 LAM" tvg-logo = "https://picon-13398.kxcdn.com/foxsports3.jpg" group-title = " En vivo: América Latina ", FOX Sports 3 Latino
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/15975
 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title = "AIRE", TVG 
