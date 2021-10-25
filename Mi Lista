@@ -1,87 +1,84 @@
-#EXTM3U
-#EXTIN: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png" group-title ="AIRE", TV PUBLICA F
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png" group-title="AIRE", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png" group-title ="AIRE", TV PUBLICA ALTERNATIVA 
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title =" AIRE ", TV PUBLICA ALTERNATIVA 
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period% C3% ADstica_IP_Logo.svg.png" group-title ="NOTICIAS", IP 
+ 
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP 
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF: -1 tvg-logo = "http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title = "NOTICIAS", CRONICA 
+ 
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA 
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="Channel26.ar" tvg-name="Canal 26 AR" tvg-logo="https://picon-13398.kxcdn.com/canal26ar.jpg" group-title="NOTICIAS",Canal 26 AR
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YP-PR-TV-Wo/X86_FNeGBUI/AAAAAAAA7gw/hqyTGrH_NcIr-Ukzcw6KdEhy2g_V_d7CwCLcBGAsYHQ/s0/canal26-2018.png" group-title="NOTICIAS", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29. png "group-title = "NOTICIAS", A24 
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" grupo- title = "NOTICIAS", A 24 TUCUMAN 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAPHfTfCdYzzkDwTGDfqOUte3nQD71ZzQ0JPrQTw9g0pAg88NuzFoIksDILHnYush9b3Q&usqp=CAU" group-title="NOTICIAS", A 24 TUCUMAN  
 http://45.6.4.154/americatuc/vivo.m3u8 
-
+ 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN 
 http://aguine.ddns.net:2082/bestmedia/6uNaZcfGFC/181380
-
+ 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN YT 
 https://www.youtube.com/watch?v=wHn1_QVoXGM	 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title = "AIRE", AMÉRICA 
+ 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/small.60528493072631.png.034311ec02e6b5bc9d3245a6e9824a9b.png" group-title="AIRE", AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group- title = "AIRE", TELEFE
+ 
+#EXTINF:-1 tvg-logo="https://prensario.tv/images/galleries/4792/e1dc8733904ec35e5d081ebbf0eb2d64_750x400.gif?v=1575314114" group-title="AIRE", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group- title = "AIRE", TELEFE ROSARIO 
+ 
+#EXTINF:-1 tvg-logo="https://prensario.tv/images/galleries/4792/e1dc8733904ec35e5d081ebbf0eb2d64_750x400.gif?v=1575314114" group-title="AIRE", TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = "AIRE", CANAL 13 
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rP3GUU0B3GY/WESRHIQAM1I/AAAAAAAABRs/dBXinp2supwn0JpAZ1pa4lc3vaR3Z627QCLcB/s1600/eltrece.jpg" group-title="AIRE", CANAL 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = "AIRE", CANAL 13 ALTERNATIVO 
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title = "AIRE", CANAL 9 HD 
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AIRE", CANAL 9
 http://aguine.ddns.net:2082/bestmedia/6uNaZcfGFC/181367
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title = "AIRE", NET TV 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8mRepMt027_9_N-xyGTLYQscqVc9T8dz_tzU7RxzVz2lRTlw6VeYOjLeybo9PgMvbCQ&usqp=CAU" group-title="AIRE", NET TV  
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL 
-
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title = "AIRE", CANAL DE LA CIUDAD 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AIRE", CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title = "AIRE", CANAL ENCUENTRO 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-y1Tzpi7z4gU/AAAAAAAAAAI/AAAAAAAAAAA/IO5dQLAgMZY/s900-c-k-no/photo.jpg" group-title="AIRE", CANAL ENCUENTRO 
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8	 
-
-#EXTINF: -1 tvg-logo = "https://elgourmet.com/theme/assets/logo.png" group-title = "AIRE", EL GOURMET 
+ 
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AIRE", EL GOURMET 
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title = "DEPORTES", TyC 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
+ 
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/16025 
-
+ 
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn Latino
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/16025
-
+ 
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title = "DEPORTES", Fox Sports Premium 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73731 
-
+ 
 #EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "DEPORTES", TNT SPORTS 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73725 
-
+ 
 #EXTINF: -1 tvg-id = "FoxSports3.mx" tvg-name = "FOX Sports 3 LAM" tvg-logo = "https://picon-13398.kxcdn.com/foxsports3.jpg" group-title = " En vivo: América Latina ", FOX Sports 3 Latino
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/15975
-
+ 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title = "AIRE", TVG 
 https://europa-crtvg.flumotion.com/playlist.m3u8 
-
+ 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title = "NOTICIAS", 24 horas 
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
-
+ 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title = "AIRE", Telemadrid 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/26532 
-
+ 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ilZJT5s.png" group-title = "NOTICIAS", CNN en Español 
 http://45.160.73.145:8091/play/a00w/index.m3u8
