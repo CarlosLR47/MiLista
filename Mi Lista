@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png" group-title="AIRE", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title =" AIRE ", TV PUBLICA ALTERNATIVA 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title ="AIRE", TV PUBLICA ALTERNATIVA 
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP 
@@ -53,7 +53,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AIRE", EL GOURMET 
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES", TyC SPORT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title= "DEPORTES", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
  
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn 
@@ -71,13 +71,13 @@ http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73725
 #EXTINF: -1 tvg-id = "FoxSports3.mx" tvg-name = "FOX Sports 3 LAM" tvg-logo = "https://picon-13398.kxcdn.com/foxsports3.jpg" group-title = "DEPORTES", FOX Sports 3 Latino
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/15975
  
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title = "AIRE", TVG 
+#EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title ="AIRE", TVG 
 https://europa-crtvg.flumotion.com/playlist.m3u8 
  
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title = "NOTICIAS", 24 horas 
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
  
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title = "AIRE", Telemadrid 
+#EXTINF: -1 tvg-logo = "https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title ="AIRE", Telemadrid 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/26532 
  
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ilZJT5s.png" group-title = "NOTICIAS", CNN en Español 
