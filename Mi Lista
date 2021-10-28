@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.568959920_TVP20204.png.faf057234dec318eedf00a0bb0c44839.png" group-title="AIRE", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
  
@@ -36,8 +36,8 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AIRE", CANAL 9
-http://speedmintect.com:8080/RestreamArg67/RestreamArg67/96517
- 
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8mRepMt027_9_N-xyGTLYQscqVc9T8dz_tzU7RxzVz2lRTlw6VeYOjLeybo9PgMvbCQ&usqp=CAU" group-title="AIRE", NET TV  
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL 
  
@@ -52,6 +52,9 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title= "DEPORTES", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", CIUDAD MAGICA TV
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
  
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn 
 http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/16025 
