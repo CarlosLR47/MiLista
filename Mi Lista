@@ -57,19 +57,13 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn 
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/16025 
-
-#EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn Latino
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/16025
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd 
 
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title = "DEPORTES", Fox Sports Premium 
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73731 
+https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd 
 
 #EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "DEPORTES", TNT SPORTS 
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/73725 
-
-#EXTINF: -1 tvg-id = "FoxSports3.mx" tvg-name = "FOX Sports 3 LAM" tvg-logo = "https://picon-13398.kxcdn.com/foxsports3.jpg" group-title = " En vivo: América Latina ", FOX Sports 3 Latino
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/15975
+http://speedmintect.com:8080/RestreamArg67/RestreamArg67/6266 
 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title = "AIRE", TVG 
 https://europa-crtvg.flumotion.com/playlist.m3u8 
