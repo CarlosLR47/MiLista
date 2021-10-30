@@ -69,10 +69,10 @@ http://speedmintect.com:8080/RestreamArg67/RestreamArg67/6266
 https://europa-crtvg.flumotion.com/playlist.m3u8 
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title = "NOTICIAS", 24 horas 
-https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title = "AIRE", Telemadrid 
-http://85.203.33.88:80/IDLqzbvknJ2161/9drljj9116/26532 
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/ilZJT5s.png" group-title = "NOTICIAS", CNN en Español 
 http://45.160.73.145:8091/play/a00w/index.m3u8
