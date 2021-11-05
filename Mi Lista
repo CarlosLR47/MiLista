@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTMX3U
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px- TVP _-_ Televisi% C3% B3n_P% C3% BAblica_% 282021% 29.svg.png "group-title =" AIRE ", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
@@ -18,7 +18,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://45.6.4.154/americatuc/vivo.m3u8 
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN 
-http://50.7.66.234:8080/alexi/1234/18766
+http://ac.ntvlatino.com:8080/alison/123456/18766
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN YT 
 https://www.youtube.com/watch?v=wHn1_QVoXGM	 
@@ -33,7 +33,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = "AIRE", CANAL 13 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8 
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title = "AIRE", CANAL 9 HD 
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
@@ -53,7 +53,7 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title = "DEPORTES", TyC 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF: -1 tvg-logo = "https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHUDI" group-title = "DEPORTES", CIUDAD MAGICA
+#EXTINF: -1 tvg-logo = "https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHUDI" group-title = "DEPORTES", CIUDAD
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "espn.pe" tvg-logo = "http://xtream-coders.com/x0/deportes/espn.png" group-title = "DEPORTES", Espn 
@@ -63,7 +63,7 @@ https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd 
 
 #EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "DEPORTES", TNT SPORTS 
-http://l3d.us:8080/Kerly/QdBaKywVnc/155247
+http://ac.ntvlatino.com:8080/alison/123456/2957
 
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title = "AIRE", TVG 
 https://europa-crtvg.flumotion.com/playlist.m3u8 
